@@ -1,3 +1,17 @@
+# 🏁 Mario Kart.JS – Simulador de Corrida com Node.js
+
+Este projeto é um desafio de lógica utilizando **Node.js** para simular corridas entre personagens clássicos do universo Mario Kart.  
+Cada personagem possui atributos únicos, e a corrida acontece em uma pista gerada aleatoriamente com 5 rodadas, aplicando diferentes regras de pontuação conforme o tipo de trecho (reta, curva ou confronto).
+
+Este projeto tem como foco:
+- Praticar lógica de programação e estrutura de dados
+- Trabalhar modularização e aleatoriedade em Node.js puro
+- Criar uma simulação de jogo totalmente no back-end, sem front-end
+
+> 💻 Projeto 100% em JavaScript com execução via terminal
+
+🔗 [Acesse o repositório](https://github.com/EduCarmo/projeto-mario-kart)
+
 <h1>Desafio de projeto: Mario Kart.JS</h1>
 
   <table>
